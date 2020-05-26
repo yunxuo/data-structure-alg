@@ -75,7 +75,10 @@ void MidOrderRecursive(TreeNode* root){
 
 void MidOrder(TreeNode* root){
     if(!root) return;
-    s
+    std::stack<TreeNode*> stack;
+    while(stack.empty()){
+        if()
+    }
 
 }
 
